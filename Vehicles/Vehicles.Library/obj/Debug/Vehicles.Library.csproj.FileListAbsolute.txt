@@ -1,0 +1,6 @@
+C:\Users\alkami\source\repos\Academy\ex2-vehicles\Vehicles\Vehicles.Library\bin\Debug\Vehicles.Library.dll
+C:\Users\alkami\source\repos\Academy\ex2-vehicles\Vehicles\Vehicles.Library\bin\Debug\Vehicles.Library.pdb
+C:\Users\alkami\source\repos\Academy\ex2-vehicles\Vehicles\Vehicles.Library\obj\Debug\Vehicles.Library.csprojAssemblyReference.cache
+C:\Users\alkami\source\repos\Academy\ex2-vehicles\Vehicles\Vehicles.Library\obj\Debug\Vehicles.Library.csproj.CoreCompileInputs.cache
+C:\Users\alkami\source\repos\Academy\ex2-vehicles\Vehicles\Vehicles.Library\obj\Debug\Vehicles.Library.dll
+C:\Users\alkami\source\repos\Academy\ex2-vehicles\Vehicles\Vehicles.Library\obj\Debug\Vehicles.Library.pdb
